@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Schuler Quiz</string>
+    <string name="scoreButton">Score</string>
+    <string name="exitButton">Exit</string>
+    <string name="playButton">Play</string>
+    <string name="menuButton">Main Menu</string>
+    <string name="txtScore">Score Table</string>
+</resources>
